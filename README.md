@@ -32,4 +32,6 @@ The light will turn off after ~10 seconds of no motion detected, and has a fixed
 
 <img src="Images/20220208_141325.jpg" width="50%" />
 
-Video: https://imgur.com/Az41tyX
+## Video
+
+**https://imgur.com/Az41tyX**
